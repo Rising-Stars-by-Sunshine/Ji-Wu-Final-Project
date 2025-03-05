@@ -5,7 +5,7 @@
 This project presents a novel approach to house price prediction by integrating structured numerical data with textual property descriptions generated via AI. By leveraging advanced supervised learning techniques and exploring supplementary causal inference methods, the study aims to improve predictive accuracy and provide insights into the impact of qualitative features on property valuation.
 
 ## Authors
-- Ji Wu – 
+- Ji Wu
 
 ## Disclaimer
 This project was submitted as part of the STATS 201 Machine Learning for Social Science course under the guidance of Prof. Luyao Zhang at Duke Kunshan University. All views expressed are those of the project team and do not necessarily represent the opinions of the course instructors or the institution.
@@ -17,7 +17,7 @@ We would like to thank my professor, classmates, and the developers of open-sour
 Working on this project has significantly enhanced our technical and analytical skills in data science, machine learning, and natural language processing. The interdisciplinary nature of the project has broadened our perspective on the applications of AI in social science and real estate, preparing us for future challenges in data-driven decision-making.
 
 ## Embedded Media
-- **Project Poster:** [Link to Project Poster](https://your_poster_link.com)
+- **Project Poster:** [Poster](poster.jpg)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
