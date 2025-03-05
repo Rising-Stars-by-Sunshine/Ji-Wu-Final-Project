@@ -17,7 +17,7 @@ We would like to thank my professor, classmates, and the developers of open-sour
 Working on this project has significantly enhanced our technical and analytical skills in data science, machine learning, and natural language processing. The interdisciplinary nature of the project has broadened our perspective on the applications of AI in social science and real estate, preparing us for future challenges in data-driven decision-making.
 
 ## Embedded Media
-- **Project Poster:** [Poster](poster.jpg)
+- **Project Poster:** [Poster](Poster.jpg)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
